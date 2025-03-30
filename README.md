@@ -2,7 +2,7 @@
   <img src="docs/images/diun_logo.png" alt="Diun Logo" height="200"/>
 </p>
 
-# <img src="docs/images/t9Logo.png" height="25"> PRIVATE - Tyzen9's Diun Container
+# <img src="docs/images/t9Logo.png" height="25"> Tyzen9's Diun Container
 This container uses Diun to create notifications when a Docker image is updated on a Docker registry.
 Visit the [Diun webpage](https://crazymax.dev/diun/) to learn more about this application.
 
